@@ -1,0 +1,6 @@
+{
+  "name": "RD Studio Auto Silence Remover",
+  "description": "Professional Dialogue Silence Processing by RD Studio for dubbing and voice-over workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

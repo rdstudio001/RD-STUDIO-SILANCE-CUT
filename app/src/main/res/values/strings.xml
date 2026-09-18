@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RD Studio Auto Silence Remover</string>
+    <string name="brand_title">RD STUDIO</string>
+    <string name="brand_subtitle">AUTO SILENCE REMOVER</string>
+    <string name="brand_tagline">Professional Dialogue Silence Processing</string>
+    <string name="owner_name">Shahneel Khan</string>
+    <string name="studio_website">rdstudio.online</string>
+</resources>
